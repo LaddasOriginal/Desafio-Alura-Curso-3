@@ -8,3 +8,5 @@
 // Voltando para os estudos 22/06/2026  
 
 // Testando integração git no VSCODE
+
+// Novo texto para o desafio
